@@ -80,15 +80,18 @@ header {
     text-align:center;
 }
 
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 #left {
-    width: 46%;
-    float: left;
+    flex:50%;
     padding: 2%;
 }
 
 #right {
-    width: 46%;
-    float: right;
+    flex: 50%;
     padding: 2%;
     
 }
