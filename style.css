@@ -1,0 +1,123 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 300;
+    margin: 15px;
+    background-color: rgb(235, 230, 230);
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0.5em;
+}
+header {
+    text-align: center;
+}
+
+#top {
+    border-color: #cc9999;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 2em;
+    height: 8em;
+    width: 70%;
+    margin-left: 12%;
+    margin-right: 15%;
+}
+
+
+#top h3{
+    color: #cc9999;
+    margin-top: 0;
+    font-size: 2em;
+    font-weight: 500;
+    width: 100%;
+}
+
+#photo {
+    width: 18%;
+    float: left;
+    height: 100%;
+}
+
+#name {
+    width: 80% ;
+    float: right;
+    height: 50%;
+    color: #0e2037;
+    font-weight: 500;
+    letter-spacing: 4px;
+    font-size: 50px;
+}
+
+#title {
+    width: 80%;
+    float: right;
+    height: 50%;
+    margin-top: 2em;
+}
+
+#details {
+    padding: 2em;
+    height: 5em;
+    list-style-type: none;
+}
+
+#contact {
+    width: 49%;
+    float: left;
+}
+
+#sites {
+    width: 49%;
+    float: right;
+    margin-top: 1em;
+}
+
+#objective {
+    border-color: #cc9999;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    text-align:center;
+}
+
+#left {
+    width: 46%;
+    float: left;
+    padding: 2%;
+}
+
+#right {
+    width: 46%;
+    float: right;
+    padding: 2%;
+    
+}
+
+#skills {
+    height: 10em;
+}
+
+#courses {
+    height: 10em;
+    padding-top: 2em;
+    list-style-type: none;
+}
+
+#experience {
+    height: 20.5em;
+    width: 100%;
+
+}
+
+#education {
+    border-color: #cc9999;
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    height: 13em;
+    margin-top: 25em;
+    width: 50%;
+}
+
+#references {
+    background-color: #c99;
+}
