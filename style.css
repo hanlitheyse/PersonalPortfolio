@@ -20,7 +20,8 @@ header {
     padding: 2em;
     margin-left: 12%;
     margin-right: 15%;
-    display: flex
+    display: flex;
+    overflow: hidden;
 }
 
 #top h1 {
@@ -47,6 +48,7 @@ img{
     padding-left: 0vw;
     border-radius: 5vw;
     margin-left: 5vw;
+    display: block;
 }
 
 #name {
